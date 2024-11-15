@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+public struct MyLibrary {
+    public init() {}
+    public func callMyLibrary () {
+        print(" MY LIBRARY is called!")
+    }
+}
